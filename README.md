@@ -33,6 +33,17 @@ Calibration File
 
 ![calib3](https://github.com/shubhamsharma1609/Sentinel_Radiometric_Calibration_Tool/blob/main/images/20.png)
 
+## Installation requirements :
+The tool has been tested with the following : 
+* Python (ver 3.5+)
+* GDAL ( ver. 2.0.3)
+* Numpy( ver. 1.11.1)
+* matplotlib(ver. 1.5.3)
+* scipy (ver. 0.18.1)
+* mpldatacursor(ver. 0.6.2)
+* tkinter (ver. 8.5.18)
+* scikit-image(ver. 0.12.3)
+
 
 ## Data Utilised
 For Demonstration purpose,the Sentinel-1 IW(Interferometric Wide Swath mode) GRD(Ground Range Detected) data is used with Identifier  S1A_IW_GRDH_1SDV_20180206T010949_20180206T011014_020479_023059_419C and the corner reflectors utilised are Triangular Trihedral.
