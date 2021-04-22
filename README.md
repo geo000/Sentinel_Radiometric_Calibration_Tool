@@ -38,4 +38,8 @@ Calibration File
 For Demonstration purpose,the Sentinel-1 IW(Interferometric Wide Swath mode) GRD(Ground Range Detected) data is used with Identifier  S1A_IW_GRDH_1SDV_20180206T010949_20180206T011014_020479_023059_419C and the corner reflectors utilised are Triangular Trihedral.
 
 
+## Calibration Steps
+Please follow the Radiometric Calibration document carefully for successful calibration.
+
+
 
