@@ -1,6 +1,6 @@
 #@author :SHUBHAM SHARMA
 #This is a demonstration tool used for demonstrating Calibration of Point Targets 
-#In SAR imagery
+#in SAR imagery
 
 from scipy.interpolate import griddata,interp1d
 from mpldatacursor import datacursor
@@ -137,10 +137,6 @@ def onclick_input(event=None):
         
     
     
-    
-    
-    
-    
     #onclick event   
     def oc1(event):
         global x1,y1,m1,n1,ctr,pt
@@ -206,18 +202,9 @@ def onclick_input(event=None):
     else :
         messagebox.showinfo(title="Warning!!!!!",message="File Format not Supported")
             
-            
-            
-        
-        
-        
+                
     return    
-    
-    
-    
-
-
-
+  
 b2 = Button(root,text="Input File", command=onclick_input)
 
 b2.grid(row=10,column=0,sticky='W',padx=round(sc_w/3.2))
