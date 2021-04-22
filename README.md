@@ -27,11 +27,11 @@ Processing
 
 ![calib](https://github.com/shubhamsharma1609/Sentinel_Radiometric_Calibration_Tool/blob/main/images/17.PNG)
 
-![calib](https://github.com/shubhamsharma1609/Sentinel_Radiometric_Calibration_Tool/blob/main/images/18.PNG)
+![calib1](https://github.com/shubhamsharma1609/Sentinel_Radiometric_Calibration_Tool/blob/main/images/18.PNG)
 
-![calib](https://github.com/shubhamsharma1609/Sentinel_Radiometric_Calibration_Tool/blob/main/images/19.PNG)
+![calib2](https://github.com/shubhamsharma1609/Sentinel_Radiometric_Calibration_Tool/blob/main/images/19.PNG)
 
-![calib](https://github.com/shubhamsharma1609/Sentinel_Radiometric_Calibration_Tool/blob/main/images/20.PNG)
+![calib3](https://github.com/shubhamsharma1609/Sentinel_Radiometric_Calibration_Tool/blob/main/images/20.PNG)
 
 
 
