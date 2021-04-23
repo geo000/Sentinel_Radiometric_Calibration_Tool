@@ -44,6 +44,8 @@ The tool has been tested with the following :
 * tkinter (ver. 8.5.18)
 * scikit-image(ver. 0.12.3)
 
+The tool does not require any other open source software and is built from scratch utilising the above libraries/packages.
+
 
 ## Data Utilised
 For Demonstration purpose,the Sentinel-1 IW(Interferometric Wide Swath mode) GRD(Ground Range Detected) data is used with Identifier  S1A_IW_GRDH_1SDV_20180206T010949_20180206T011014_020479_023059_419C and the corner reflectors utilised are Triangular Trihedral.
